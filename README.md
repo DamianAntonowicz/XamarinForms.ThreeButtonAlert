@@ -4,8 +4,8 @@ Xamarin.Forms [DisplayAlert](https://docs.microsoft.com/en-us/xamarin/xamarin-fo
 
 ## iOS
 
-[iOS](iOS_XamarinForms_alert.gif)
+![iOS](iOS_XamarinForms_alert.gif)
 
 ## Android
 
-[Android](Android_XamarinForms_alert.gif)
+![Android](Android_XamarinForms_alert.gif)
